@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: omega
+  graphql:
+    graphiql:
+      enabled: true
